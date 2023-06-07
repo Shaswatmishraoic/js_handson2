@@ -1,0 +1,11 @@
+body{
+    background-color: cornflowerblue;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.fun{
+    font-weight: bolder;
+    color: blueviolet;
+}
